@@ -1,48 +1,51 @@
-# ✍️ Hi, I'm NUR IZWANI 👋
+# NUR IZWANI
 
-### 🎓 Degree in Management (Marketing) | Digital Marketer & Strategist
+## Bachelor of Management (Marketing) | Digital Marketing & Brand Strategy
 
-I am a passionate **Management & Marketing graduate** with a strong interest in **Digital Marketing, Data-Driven Strategy, Content Creation, and Project Management**. I leverage tools and technology to bridge the gap between business strategy, customer engagement, and digital presence.
-
----
-
-### 🌟 About Me
-- 🎓 **Education:** Bachelor's Degree in Management (Marketing)
-- 📌 **Focus Areas:** Digital Marketing Strategy, Brand Management, Market Research & Analytics, Campaign Planning
-- 💡 **Passion:** Translating customer insights into impactful marketing strategies and creative visual campaigns
-- 📫 **How to reach me:** [Email Me](mailto:email_anda@example.com) | [LinkedIn](https://linkedin.com/in/username_anda)
+Graduate in Management specializing in Marketing with a strong focus on digital campaign strategy, market research, brand management, and content optimization. Proficient in integrating business analytics with strategic design to build effective marketing solutions and drive audience engagement.
 
 ---
 
-### 🛠️ Skills & Knowledge Base
+## Professional Overview
 
-#### 🎯 Marketing & Strategy
-- **Digital Marketing:** SEO / SEM Fundamentals, Social Media Marketing, Content Strategy
-- **Brand & Operations:** Brand Positioning, Customer Relationship Management (CRM), Service Operations
-- **Analytics & Research:** Market Research, Consumer Behavior Analysis, Performance Metrics
-
-#### 💻 Tools & Technologies
-- **Design & Content:** Canva, Adobe Suite, Visual Design & Layouts
-- **Data & Management:** Microsoft Office / Google Workspace, Basic Data Analytics
-- **Platforms:** GitHub, Instagram, TikTok, LinkedIn Analytics
+- **Education:** Bachelor's Degree in Management (Marketing)
+- **Specializations:** Digital Marketing Strategy, Brand Position & Management, Consumer Behavior Analysis, Project Management
+- **Contact:** waniizlan05@gmail.com
+- **LinkedIn Profile:** [Nur Izwani](https://www.linkedin.com/in/nur-izwani-b90a0429a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
-### 🚀 Projects & Case Studies
-Here are some of the key academic & practical projects I've worked on:
+## Core Competencies & Tools
 
-- 📊 **[Digital Marketing Strategy Plan]** – Developed a comprehensive cross-border digital marketing strategy targeting Gen Z travelers.
-- 🎨 **[Brand & Visual Identity Design]** – Created visual assets, promotional poster templates, and social media captions for campus events.
-- 📈 **[Market Analysis & Legal Frameworks]** – Conducted in-depth research on consumer engagement, digital marketing, and cyber regulations.
+### Marketing & Business Strategy
+- **Digital Marketing:** Search Engine Optimization (SEO), Social Media Marketing (SMM), Content Strategy, Campaign Planning
+- **Market Research & Analytics:** Consumer Insights, Data Interpretation, Performance Tracking, CRM Fundamentals
+- **Strategic Management:** Brand Identity Development, Service Operations Management, Legal & Cyber Regulation Awareness
 
-*(Tips: Anda boleh letakkan pautan/link ke repositori project anda di sini)*
-
----
-
-### 📈 GitHub Stats
-<!--- Sekiranya anda mahu menambah lencana statistik GitHub --->
-![Izwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radial)
+### Tools & Technical Proficiency
+- **Visual Design & Media:** Canva, Adobe Creative Suite, Layout & Promotional Asset Design
+- **Data & Productivity:** Google Workspace, Microsoft Office Suite, Basic Data Analytics
+- **Platforms:** GitHub, LinkedIn, Instagram, TikTok Analytics
 
 ---
 
-💡 *"Combining strategic management with data-driven marketing to build meaningful brand experiences."*
+## Key Projects & Academic Case Studies
+
+- **Digital Marketing Strategy & Campaign Planning**
+  - Designed cross-border digital marketing campaigns tailored to targeted demographic segments.
+  - Formulated content strategies utilizing social media analytics to optimize audience reach.
+
+- **Brand Identity & Promotional Layout Design**
+  - Developed visual assets, event identity materials, and promotional layouts for structured programs.
+  - Standardized content formatting for promotional releases across multiple channels.
+
+- **Market Analysis & Strategic Frameworks**
+  - Analyzed consumer decision-making patterns and operational service blueprints.
+  - Evaluated legal and compliance frameworks relating to modern digital communication and marketing activities.
+
+---
+
+## Contact & Professional Network
+
+- **Email:** [waniizlan05@gmail.com](mailto:waniizlan05@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/nur-izwani-b90a0429a](https://www.linkedin.com/in/nur-izwani-b90a0429a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
