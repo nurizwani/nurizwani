@@ -1,13 +1,19 @@
 
 <div align="center">
 
-# NUR IZWANI
+<h1 style="color:#2563EB;">NUR IZWANI</h1>
 
-### MANAGEMENT (MARKETING)
+<h3>BACHELOR OF MANAGEMENT (MARKETING)</h3>
 
-Universiti Teknologi Malaysia (UTM)
+<p>
+  <strong>Universiti Teknologi Malaysia</strong>
+</p>
 
-Marketing | Leadership | Event Management | Digital Innovation
+<p>
+  <img src="https://img.shields.io/badge/Marketing-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event_Management-0F766E?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -15,7 +21,7 @@ Marketing | Leadership | Event Management | Digital Innovation
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EFF6FF">
 
 <h3>ABOUT ME</h3>
 
@@ -24,7 +30,7 @@ Management (Marketing) student at Universiti Teknologi Malaysia with a strong in
 Passionate about leadership, creativity, communication and continuous professional development.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#F0FDFA">
 
 <h3>EDUCATION</h3>
 
@@ -34,7 +40,7 @@ Bachelor of Management (Marketing)
 
 **CGPA:** 3.00
 
-**Academic Focus:**
+**Academic Focus**
 - Marketing Strategy
 - Consumer Behaviour
 - Brand Management
@@ -42,9 +48,8 @@ Bachelor of Management (Marketing)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#F8FAFC">
 
 <h3>LEADERSHIP EXPERIENCE</h3>
 
@@ -65,7 +70,7 @@ November 2023 – Present
 - Student engagement
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EFF6FF">
 
 <h3>PROFESSIONAL SKILLS</h3>
 
@@ -90,11 +95,11 @@ November 2023 – Present
 
 ---
 
-## ACTIVITIES & INVOLVEMENT
+<h2 align="center">ACTIVITIES & INVOLVEMENT</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EFF6FF">
 
 <h3>CAMO 33</h3>
 
@@ -107,7 +112,7 @@ Kem Orientasi Pegawai Kadet PALAPES Darat UTM Siri 33.
 - Event preparation
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#F0FDFA">
 
 <h3>RECON 34'</h3>
 
@@ -122,7 +127,7 @@ Orientasi Pegawai Kadet PALAPES Siri 34.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#F0FDFA">
 
 <h3>UNICON 26'</h3>
 
@@ -135,7 +140,7 @@ Uniform Bodies Convention.
 - Student engagement
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EFF6FF">
 
 <h3>PARLIMEN BELIA MALAYSIA</h3>
 
@@ -150,7 +155,7 @@ Jerayawara Program Parlimen Belia Malaysia.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td colspan="2" valign="top" bgcolor="#F8FAFC">
 
 <h3>UTM KAYAKING ACTIVITY</h3>
 
@@ -166,43 +171,45 @@ Jerayawara Program Parlimen Belia Malaysia.
 
 ---
 
-## AREAS OF INTEREST
+<h2 align="center">AREAS OF INTEREST</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">Digital Marketing</td>
-<td align="center">Brand Management</td>
-<td align="center">Marketing Analytics</td>
-</tr>
-<tr>
-<td align="center">AI in Marketing</td>
-<td align="center">Corporate Communication</td>
-<td align="center">Business Development</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Digital_Marketing-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Brand_Management-1D4ED8?style=flat-square" />
+<img src="https://img.shields.io/badge/Marketing_Analytics-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_in_Marketing-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Corporate_Communication-0369A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Business_Development-0F766E?style=flat-square" />
 
 </div>
 
 ---
 
-## CAREER OBJECTIVE
+<h2 align="center">CAREER OBJECTIVE</h2>
 
-To develop professional capabilities in marketing and business management while applying strategic thinking, creativity and leadership skills to contribute meaningful value to organizations.
+<p align="center">
+To develop professional capabilities in marketing and business management
+while applying strategic thinking, creativity and leadership skills
+to contribute meaningful value to organizations.
+</p>
 
 ---
 
 <div align="center">
 
-### CONNECT WITH ME
+<h3>CONNECT WITH ME</h3>
 
-**Email:** waniizlan05@gmail.com
+<a href="mailto:waniizlan05@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**GitHub:** [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-*Learning Through Experience. Growing Through Leadership.*
+<strong>LEARNING THROUGH EXPERIENCE. GROWING THROUGH LEADERSHIP.</strong>
 
 </div>
