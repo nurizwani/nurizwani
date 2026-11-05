@@ -38,7 +38,6 @@ Passionate about leadership, creativity, communication and continuous profession
 
 Bachelor of Management (Marketing)
 
-**CGPA:** 3.00
 
 **Academic Focus**
 - Marketing Strategy
